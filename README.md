@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there 👋
+Welcome to my GitHub profile! My name is Vinicius, please enjoy your stay, and maybe send me a connection request on [Linkedin](https://www.linkedin.com/in/vinicius-chab/)!
 
-<!--
-**ViniChab/ViniChab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here you'll get to know me a little better!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Who am I?
+I am a Front End developer with 4+ years of experience, who already worked with small startups and big companies. I have a degree in System Analysis and Development.
+
+I love coding. Now that I've graduated, I have more free time to work on personal projects, and continue growing and learning! I aspire to be a great developer - and a great person, I have no issues with anybody, and always intend on having friendly relationships.
+
+Besides coding, I really like playing video games and going to the beach with my wife :)
+
+If you need something, don't be shy, DM me on linkedin at any time!
+
+## Languages and tools 🛠️
+
+* Javascript, Typescript, CSS/SCSS, HTML and GraphQL
+* Reactive programming with RxJS
+* Used to state management with tools like NgRx
+* I'm currently working a lot with Angular and all its technologies, but I'm also very interested in working with Flutter or React
+* Mobile development with Ionic
+* I also have quite some experience building end-to-end tests with Cypress
+* Very used to design tools like Figma, Adobe XD and Zeplin
+* Worked (and work!) a lot using agile methodologies like Scrum and Kanban
+* Besides frontend, I love working with Node.js and Express, and have a lot of interest on Python
+* MySQL and PostgreSQL knowledge
+* I have worked in the past with Java and Ruby as well
