@@ -11,7 +11,7 @@ I love coding, always working on personal projects and seeking more knowledge. I
 
 Besides coding, I really like playing video games and going to the beach :)
 
-If you need something, don't be shy, DM me on linkedin at any time!
+If you need something, don't be shy, DM me on LinkedIn at any time!
 
 ## Languages and tools 🛠️
 
@@ -23,6 +23,6 @@ If you need something, don't be shy, DM me on linkedin at any time!
 * I also have quite some experience building end-to-end tests with Cypress
 * Very used to design tools like Figma, Adobe XD and Zeplin
 * Worked (and work!) a lot using agile methodologies like Scrum and Kanban
-* Besides frontend, I love working with Node.js and Express, and have a lot of interest on Python
+* Besides frontend, I love working with Node.js and Express, and have a lot of interest in Python
 * MySQL and PostgreSQL knowledge
 * I have worked in the past with Java and Ruby as well
