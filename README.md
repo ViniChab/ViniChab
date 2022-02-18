@@ -7,9 +7,9 @@ Here you'll get to know me a little better!
 ## Who am I?
 I am a Front End developer with 4+ years of experience, who already worked with small startups and big companies. I have a degree in System Analysis and Development.
 
-I love coding. Now that I've graduated, I have more free time to work on personal projects, and continue growing and learning! I aspire to be a great developer - and a great person, I have no issues with anybody, and always intend on having friendly relationships.
+I love coding, always working on personal projects and seeking more knowledge. I aspire to be a great developer - and an awesome guy to work with, I have no issues with anybody, and always intend on building friendly relations.
 
-Besides coding, I really like playing video games and going to the beach with my wife :)
+Besides coding, I really like playing video games and going to the beach :)
 
 If you need something, don't be shy, DM me on linkedin at any time!
 
