@@ -26,3 +26,7 @@ If you need something, don't be shy, DM me on LinkedIn at any time!
 * Besides frontend, I love working with Node.js and Express, and have a lot of interest in Python
 * MySQL and PostgreSQL knowledge
 * I have worked in the past with Java and Ruby as well
+
+## My Etherium wallet
+
+* 0x37a805753c3d9ca41e698962e4d5ee40f557774f
