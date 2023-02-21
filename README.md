@@ -5,7 +5,7 @@ Here you'll get to know me a little better!
 
 
 ## Who am I?
-I am a Front End developer with 4+ years of experience, who already worked with small startups and big companies. I have a degree in System Analysis and Development.
+I am a Front End developer with 5 years of experience, who already worked with small startups and big companies. I have a degree in System Analysis and Development.
 
 I love coding, always working on personal projects and seeking more knowledge. I aspire to be a great developer - and an awesome guy to work with, I have no issues with anybody, and always intend on building friendly relations.
 
